@@ -29,7 +29,7 @@ const AirlineCard = ({ airline }) => {
                     <div className="card-content">
                         <img
                             className="card-img"
-                            src="replace this with default image" alt="logo"
+                            src={`https://www.kayak.com${airline.logoURL}`} alt="logo"
                         />
                         <div className="airline-info">
                             <div className="airline-name">

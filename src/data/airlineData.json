@@ -1,0 +1,38 @@
+[{
+"site": "https://www.airfrance.com",
+"code": "AF",
+"alliance": "ST",
+"phone": "1-800-237-2747",
+"name": "Air France",
+"usName": null,
+"__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+"defaultName": null,
+"logoURL": "/rimg/provider-logos/airlines/v/AF.png?crop=false&width=108&height=92&fallback=default1.png&_v=48aae6bb98d8c51316f5918500ed39b2"
+},
+
+{
+"site": "www.airindia.in/",
+"code": "AI",
+"alliance": "SA",
+"phone": "+91 22 27067001",
+"name": "Air India",
+"usName": null,
+"__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+"defaultName": null,
+"logoURL": "/rimg/provider-logos/airlines/v/AI.png?crop=false&width=108&height=92&fallback=default1.png&_v=18d6ba2bd1a6b89120361f37345483d6"
+},
+
+{
+"site": "https://www.alaskaair.com",
+"code": "AS",
+"alliance": "OW",
+"phone": "+1 800 252 75 22",
+"name": "Alaska Airlines",
+"usName": null,
+"__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+"defaultName": null,
+"logoURL": "/rimg/provider-logos/airlines/v/AS.png?crop=false&width=108&height=92&fallback=default2.png&_v=7e7c4110616a97db4d99676711cb7247"
+}
+
+]
+
