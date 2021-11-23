@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+}
+
+.Home {
+    font-family: HelveticaNeue;
+    background-color: #F9FAFB;
+    padding: 0px;
+    margin: 0px;
+}
+
+#header {
+    padding: 19px 0 0px 16px;
+    background-color: #FFFFFF;
+}
+
+svg {
+    padding-bottom: 19px;
+}
+
+hr {
+    margin: 0 -20px 0 -20px;
+    border-color: #F9FAFB;
+    opacity: 0.3;
+}
+
+#content-container {
+    margin-left: 94px;
+    
+}
+h1 {
+    line-height: .8em;
+    font-size: 44px;
+    font-weight: 900;
+    color: #000000;
+    margin: 67px 0 73px 0;
+}
+
+h3 {
+    line-height: .8em;
+    font-size: 16px;
+    font-weight: bold;
+    color: #192024;
+    margin: 0 0 23px 0;
+}
+
+.checkboxes {
+    font-size: 14px;
+    font-weight: normal;
+    color: #192024;
+    margin: 0 0 48px -24px;
+}
+
+input {
+    height: 20px;
+    width: 20px;
+    margin: 0 10px 0 24px;
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+
+.card-container {
+    margin-left: -8px;
+}
+
+.card {
+    width: 300px;
+    height: 240px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 -1px 4px 0 rgba(25, 32, 36, 0.04),
+    0 3px 6px 0 rgba(25, 32, 36, 0.16);
+    margin: 8px;
+    overflow: hidden;
+}
+
+.card:hover {
+    border: solid 1px #363f45;
+    margin: 7px;
+}
+
+.card-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 30%;
+    font-size: 16px;
+    font-weight: bold;
+    color: #192024;
+}
+
+.card-img {
+    height: 32px;
+    width: 32px;
+    padding-right: 18px;
+    position: relative;
+    bottom: 3px;
+}
+
+.airline-info {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+}
+
+.airline-name {
+    padding: 1px 0 1px 0;
+}
+
+.hover-alliance {
+    padding: 1px 0 1px 0;
+    padding: 1px 0 1px 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: #192024;
+}
+
+.hover-phone {
+    padding: 1px 0 1px 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: #192024;
+}
+
+.hover-site {
+    padding: 1px 0 1px 0;   
+    font-size: 14px;
+    font-weight: normal;
+    color: #5a6872;
+}
+
