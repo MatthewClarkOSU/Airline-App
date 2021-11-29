@@ -1,5 +1,5 @@
 import "../styles.css";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import AirlineCard from '../components/AirlineCard'
 import AllianceFilterCheckbox from '../components/AllianceFilterCheckbox'
 import { airlineData } from '../data/airlineData'
