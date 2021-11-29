@@ -56,7 +56,9 @@ export default function Home() {
                 <div className="card-container">
                     {filteredAirlines.map(airline => {
                     return (
+                        <a target="_blank" href={airline.site}>
                         <AirlineCard airline={airline} key={airline.code} />
+                        </a>
                     )
                 })}
                 </div>
