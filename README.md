@@ -1,7 +1,7 @@
 
 # Airline App
 
-* Interact with the App here -> https://brave-liskov-b602a0.netlify.app
+Interact with the App here -> https://brave-liskov-b602a0.netlify.app
 
 ## Technologies Used
 
