@@ -2,7 +2,7 @@ export const airlineData = [
     {
     site: "https://www.airfrance.com",
     code: "AF",
-    allliance: "ST",
+    alliance: "ST",
     phone: "1-800-237-2747",
     name: "Air France",
     usName: null,
@@ -14,7 +14,7 @@ export const airlineData = [
     {
     site: "www.airindia.in/",
     code: "AI",
-    allliance: "SA",
+    alliance: "SA",
     phone: "+91 22 27067001",
     name: "Air India",
     usName: null,
@@ -26,7 +26,7 @@ export const airlineData = [
     {
     site: "https://www.alaskaair.com",
     code: "AS",
-    allliance: "OW",
+    alliance: "OW",
     phone: "+1 800 252 75 22",
     name: "Alaska Airlines",
     usName: null,
@@ -38,7 +38,7 @@ export const airlineData = [
     {
     site: "https://www.royalairmaroc.com/us-en",
     code: "AT",
-    allliance: "OW",
+    alliance: "OW",
     phone: "+212 5 22 48 97 97",
     name: "Royal Air Maroc",
     usName: null,
@@ -50,7 +50,7 @@ export const airlineData = [
     {
     site: "https://www.avianca.com/otr/en",
     code: "AV",
-    allliance: "SA",
+    alliance: "SA",
     phone: "+57 18000 953 434",
     name: "Avianca",
     usName: null,
@@ -62,7 +62,7 @@ export const airlineData = [
     {
     site: "https://www.finnair.com/int/gb/",
     code: "AY",
-    allliance: "OW",
+    alliance: "OW",
     phone: "+358 600 140 140",
     name: "Finnair",
     usName: null,
@@ -74,7 +74,7 @@ export const airlineData = [
     {
     site: "https://www.itaspa.com/en_en/",
     code: "AZ",
-    allliance: "ST",
+    alliance: "ST",
     phone: "+39 06 65649",
     name: "ITA - Airways",
     usName: null,
@@ -86,7 +86,7 @@ export const airlineData = [
     {
     site: "https://www.iberia.com",
     code: "IB",
-    allliance: "OW",
+    alliance: "OW",
     phone: "+34 901 111 500",
     name: "Iberia",
     usName: null,
@@ -98,7 +98,7 @@ export const airlineData = [
     {
     site: "https://www.klm.com/home/us/en",
     code: "KL",
-    allliance: "ST",
+    alliance: "ST",
     phone: "+55 11 38788363",
     name: "KLM",
     usName: null,
@@ -110,7 +110,7 @@ export const airlineData = [
     {
     site: "https://www.austrian.com",
     code: "OS",
-    allliance: "SA",
+    alliance: "SA",
     phone: "+43 5 1766 3100",
     name: "Austrian Airlines",
     usName: null,
@@ -122,7 +122,7 @@ export const airlineData = [
     {
     site: "https://www.singaporeair.com",
     code: "SQ",
-    allliance: "SA",
+    alliance: "SA",
     phone: "+65 6223 8888",
     name: "Singapore Airlines",
     usName: null,
@@ -134,7 +134,7 @@ export const airlineData = [
     {
     site: "https://www.AA.com",
     code: "AA",
-    allliance: "OW",
+    alliance: "OW",
     phone: "+1 800 433 7300",
     name: "American Airlines",
     usName: null,
@@ -146,7 +146,7 @@ export const airlineData = [
     {
     site: "https://www.fijiairways.com",
     code: "FJ",
-    allliance: "OW",
+    alliance: "OW",
     phone: "+679 672 0888",
     name: "Fiji Airways",
     usName: null,
@@ -158,7 +158,7 @@ export const airlineData = [
     {
     site: "https://www.qantas.com/",
     code: "QF",
-    allliance: "OW",
+    alliance: "OW",
     phone: "46 8 791 5922",
     name: "Qantas Airways",
     usName: null,
@@ -170,7 +170,7 @@ export const airlineData = [
     {
     site: "https://www.flysaa.com/za/en/home.action",
     code: "SA",
-    allliance: "SA",
+    alliance: "SA",
     phone: "+27 11 978 1111",
     name: "South African",
     usName: null,
@@ -182,7 +182,7 @@ export const airlineData = [
     {
     site: "https://www.brusselsairlines.com",
     code: "SN",
-    allliance: "SA",
+    alliance: "SA",
     phone: "+32 2 723 2362",
     name: "Brussels Airlines",
     usName: null,
@@ -194,7 +194,7 @@ export const airlineData = [
     {
     site: "https://www.airthanlwin.com",
     code: "ST",
-    allliance: "none",
+    alliance: "none",
     phone: "(+95-9) 766661010",
     name: "Air Thanlwin",
     usName: null,
@@ -206,7 +206,7 @@ export const airlineData = [
     {
     site: "https://www.aireuropa.com",
     code: "UX",
-    allliance: "ST",
+    alliance: "ST",
     phone: "+30 2238 5436",
     name: "Air Europa",
     usName: null,
