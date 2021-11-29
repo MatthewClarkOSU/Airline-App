@@ -36,7 +36,7 @@ export default function Home() {
     return (
         <div className="Home">
             <div id="header">
-                <h3>Company Name</h3>
+                <h2>Airline App</h2>
         <hr />
             </div>
 
