@@ -22,6 +22,4 @@ This app displays airline information with a checkbox filtering option based on 
 * Type **npm install** to install all dependencies.
 * Type **npm start** to run the app locally
 
-* Check back for new features and updates!
-
 Copyright (c) 2021 Matt Clark
