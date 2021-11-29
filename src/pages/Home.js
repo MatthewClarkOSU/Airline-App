@@ -6,21 +6,19 @@ import { airlineData } from '../data/airlineData'
 
 export default function Home() {
 
-    const [airlines, setAirlines] = useState([])
-
     const [owChecked, setOwChecked] = useState(false)
     const [stChecked, setStChecked] = useState(false)
     const [saChecked, setSaChecked] = useState(false)
 
     const filterAirlines = () => {
         if (stChecked || owChecked || saChecked) {
-            return airlines.filter(airline => (
+            return airlineData.filter(airline => (
                 (owChecked && airline.alliance === "OW") ||
                 (stChecked && airline.alliance === "ST") ||
                 (saChecked && airline.alliance === "SA")
             ))
         } else {
-            return airlines
+            return airlineData
         }
     };
 
@@ -32,9 +30,7 @@ export default function Home() {
         { key: "SA", label: "Star Alliance", value: saChecked, onValueChange: setSaChecked}
     ]
 
-    useEffect(() => {
-        // Replace API call with JSON file
-    }, []);
+    // Replaced API call with JSON file
 
 
     return (
