@@ -1,6 +1,6 @@
 # Airline App
 
-#### A react app to display airline information.
+#### A React App to display airline information.
 
 Interact with the App here -> https://brave-liskov-b602a0.netlify.app
 
