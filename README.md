@@ -1,4 +1,3 @@
-
 # Airline App
 
 #### A react app to display airline information.
@@ -12,7 +11,6 @@ Frontend:
 * JavaScript
 * HTML
 * CSS
-* Bootstrap
 
 ## Description
 
@@ -22,7 +20,7 @@ This app displays airline information with a checkbox filtering option based on 
 * Clone the repository.
 * cd into the new directory.
 * Type `npm install` to install all dependencies.
-* Type `npm start` to run the app locally
+* Type `npm start` to run the app locally.
 
 ## Known Bugs
 
