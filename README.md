@@ -2,7 +2,7 @@
 
 #### A React App to display airline information.
 
-Interact with the App here -> https://brave-liskov-b602a0.netlify.app
+Interact with the App here -> https://cranky-visvesvaraya-37f85b.netlify.app
 
 ## Technologies Used
 
